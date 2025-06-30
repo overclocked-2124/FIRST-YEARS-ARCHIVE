@@ -60,6 +60,10 @@ Extra resources:
 [PESU papers](https://drive.google.com/drive/u/0/folders/11U56PJ-VZ_5zaJ1fVrV6h3kzN4rnNX7E)
 [PESU notes](https://better-pes.vercel.app/)
 
+Round 2: ready to face me again ??
+
+Good luck :
+
 
 
 If you wish to contact me, reach me through discord (@aditya_bhandari) or instagram (@adityabhandari781)
