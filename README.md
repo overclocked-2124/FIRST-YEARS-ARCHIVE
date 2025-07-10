@@ -59,17 +59,29 @@ Also note that I have taken some of these notes/question papers from [these](htt
 Extra resources:
 [PESU papers](https://drive.google.com/drive/u/0/folders/11U56PJ-VZ_5zaJ1fVrV6h3kzN4rnNX7E)
 [PESU notes](https://better-pes.vercel.app/)
+If you wish to contact me, reach me through discord (@aditya_bhandari) or instagram (@adityabhandari781)
 
-
+P.S. make sure to star this repo if you find it useful. Thanks :)
+<br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
 
 # Round 2: ready to face me again ?? #
 
 ## Good luck :##
 
+[get-flag :) ](https://artofproblemsolving.com/community/c1595181)
 
-If you wish to contact me, reach me through discord (@aditya_bhandari) or instagram (@adityabhandari781)
-
-P.S. make sure to star this repo if you find it useful. Thanks :)
 
 <br>
 <br>
