@@ -52,7 +52,7 @@ This repository contains RVCE's first year notes and question papers for the 202
 	
 
 
-I've also included text files on what electives to choose. If you have any notes/question papers that I've missed out, please submit a pull request so that I may add it.
+I've also included text files on what electives to choose. If you have any notes/question papers that I've missed out, please submit a pull request so that I may add it
 
 Also note that I have taken some of these notes/question papers from [these](https://drive.google.com/drive/u/1/folders/11rMob5npEhep1airiznF8n5A_FgetEo4) [four](https://drive.google.com/drive/folders/1LhRMhIYAb5cUS4yESWhNNCPOzxSjwK37) [folders &](https://drive.google.com/drive/folders/1FXzQEkrdXrPKYg1Pcv1qHYuXhRb7QVdB) [repositories](https://github.com/AnanthMAthreya/1st-year-resources-2022-scheme-). So a big thanks to them. Also a thanks to all of my friends who took different electives and sent me the question papers.
 
